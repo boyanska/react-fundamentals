@@ -65,5 +65,6 @@
   "editor.formatOnPaste": false,
   "editor.cursorSmoothCaretAnimation": true,
   "editor.smoothScrolling": true,
-  "php.suggest.basic": false
+  "php.suggest.basic": false,
+  "terminal.integrated.shell.osx": "/bin/zsh"
 }
